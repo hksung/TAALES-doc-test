@@ -1,3 +1,5 @@
+# References
+
 - Berger, C., Crossley, S. & Kyle, K. (2017). Using Native-Speaker Psycholinguistic Norms to Predict Lexical Proficiency and Development in Second-Language Production. *Applied Linguistics*, 40(1), 22–42. https://doi.org/10.1093/applin/amx005
 - Bestgen, Y., & Granger, S. (2014). Quantifying the development of phraseological competence in L2 English writing: An automated approach. *Journal of Second Language Writing*, 26, 28-41. https://doi.org/10.1016/j.jslw.2014.09.004
 - Dascalu, M., McNamara, D., Crossley, S., & Trausan-Matu, S. (2016). Age of Exposure: A Model of Word Learning. *Proceedings of the AAAI Conference on Artificial Intelligence*, 30(1), 2928-2934. https://doi.org/10.1609/aaai.v30i1.10372
