@@ -4,10 +4,10 @@ description: This is the test documentation of TAALES.
 
 theme: null
 
-# debug:
-#   compress: true
-#   dist: false
-#   shortcodes: true
+debug:
+  compress: true
+  dist: true
+  shortcodes: true
 
 readme_index:
   with_frontmatter: true
