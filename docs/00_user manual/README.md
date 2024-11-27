@@ -1,12 +1,6 @@
-# Tool for the Automatic Analysis of Lexical Sophistication (TAALES)
 
 ## User Manual for TAALES 2.8 (updated 1-26-2018)
 
-**Authors:**  
-- Kristopher Kyle, University of Hawaii at Manoa  
-- Scott Crossley, Georgia State University  
-
-This document assists users of TAALES and includes a brief explanation of its use. For additional information, refer to the supplementary Index Description Spreadsheet available at [www.kristopherkyle.com](http://www.kristopherkyle.com).
 
 ### Citations
 Please use the following citations when referencing TAALES:  
