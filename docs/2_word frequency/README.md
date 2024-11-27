@@ -8,7 +8,7 @@ sort: 2
   - Less frequent words in a reference corpus (e.g., *edifice*, *cuisine*, *egregious*) are considered more sophisticated than frequently occurring words (e.g., *building*, *food*, *bad*).
 
 - **TAALES 2.0 Frequency Indices**:  
-  - Includes 36 indices derived from:  
+  - Includes 68 indices derived from:  
     - Brown Corpus (Kucera & Francis, 1967)
     - Lorge's Corpus of Popular Magazine Articles (Thorndike & Lorge, 1944)
     - London-Lund Corpus of Conversation (Brown, 1984; Svartvik & Quirk, 1980)
