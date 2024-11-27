@@ -3,9 +3,8 @@ sort: 1
 ---
 
 ## User Manual 
-- TAALES 2.8 
-- (last updated 1-26-2018)
-- see [here](https://www.linguisticanalysistools.org/taales_2_5_beta.html)
+- TAALES 2.8 (last updated 1-26-2018)
+- This page is directly copied from [here](https://www.linguisticanalysistools.org/taales_2_5_beta.html)
 
 ### Citations
 Please use the following citations when referencing TAALES:  
