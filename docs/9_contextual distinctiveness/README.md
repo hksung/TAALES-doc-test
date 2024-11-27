@@ -1,6 +1,10 @@
-# Contextual distinctiveness
+---
+sort: 9
+---
 
-- **Contextual distinctiveness** refers to how many different psychological, lexical or semantic contexts a word typically appears in, which can impact the perceived difficulty of a word. For example... 
+## Contextual distinctiveness
+
+- **Definition**: Contextual distinctiveness refers to how many different psychological, lexical or semantic contexts a word typically appears in, which can impact the perceived difficulty of a word. For example... 
 - Previous studies (e.g., Berger et al., 2017) found that more proficient language learners tend to use words with higher contextual distinctiveness and difficulty.
 
 - Related indices capture how broadly or narrowly a word is used in various contexts by looking at:

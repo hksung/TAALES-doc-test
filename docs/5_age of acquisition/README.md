@@ -1,6 +1,8 @@
-# Age of Acquisition
+---
+sort: 5
+---
 
-## AOA, AOE
+## Age of Acquisition
 
 - Definition: **Age of acquisition (AoA)** and **age of exposure (AoE)** indicate the average age a native speaker learns or first encounters a word. Studies (e.g., Kuperman et al., 2012; Dascalu et al., 2016) show that higher AoA/AoE scores correlate with less familiar, more advanced vocabulary, reflecting greater difficulty for language learners.
 

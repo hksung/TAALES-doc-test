@@ -1,6 +1,6 @@
 ---
-sort: 4
+sort: 10
 ---
 
-## Psycholinguistic norms
+## Academic language
 - **Definition**: *will be added*

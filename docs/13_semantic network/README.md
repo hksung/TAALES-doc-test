@@ -1,6 +1,6 @@
 ---
-sort: 4
+sort: 13
 ---
 
-## Psycholinguistic norms
+## Semantic network
 - **Definition**: *will be added*
