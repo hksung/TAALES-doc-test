@@ -4,7 +4,7 @@ sort: 5
 
 ## Age of Acquisition
 
-- Definition: **Age of acquisition (AoA)** and **age of exposure (AoE)** indicate the average age a native speaker learns or first encounters a word. Studies (e.g., Kuperman et al., 2012; Dascalu et al., 2016) show that higher AoA/AoE scores correlate with less familiar, more advanced vocabulary, reflecting greater difficulty for language learners.
+- **Definition:** Age of acquisition (AoA) and/or Age of exposure (AoE) indicate the average age a native speaker learns or first encounters a word. Studies (e.g., Kuperman et al., 2012; Dascalu et al., 2016) show that higher AoA/AoE scores correlate with less familiar, more advanced vocabulary, reflecting greater difficulty for language learners.
 
 - Tool: 
 	- *TAALES 1.0* calculates AoA for: *(a)* all words, *(b)* content words (e.g., nouns, verbs), and *(c)* function words (e.g., prepositions, conjunctions). The mean AoA score of a text is calculated by dividing the sum of all / content / function words in a text to the number of all / content / function words that have AoA scores.

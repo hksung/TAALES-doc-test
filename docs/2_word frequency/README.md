@@ -7,7 +7,7 @@ sort: 2
 - **Definition**: Refers to the number of times a word occurs in a corpus of texts.  
   - Less frequent words in a reference corpus (e.g., *edifice*, *cuisine*, *egregious*) are considered more sophisticated than frequently occurring words (e.g., *building*, *food*, *bad*).
 
-- **TAALES 2.0 Frequency Indices**:  
+- **TAALES 2.0 word frequency Indices**:  
   - Includes 68 indices derived from:
     - British National Corpus (`BNC`) (BNC Consortium, 2007)
     - Brown Corpus (`KF`) (Kucera & Francis, 1967)
