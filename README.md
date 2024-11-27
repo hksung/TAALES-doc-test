@@ -2,18 +2,19 @@
 # Tool for the Automatic Analysis of Lexical Sophistication (TAALES)
 
 - This project is part of the [LCR-ADS Lab](https://lcr-ads-lab.github.io/LCR-ADS-Home/) in the Linguistics Department at the University of Oregon.  
-- This page is currently under construction.  
-- Contributors: Karla Csuros, Jacob Dirkx, Zeinab Rahimi, and Hakyung Sung (listed alphabetically).  
-- test
+- This page is currently under construction.
 
-# Categorization
+# Quick overview
 
-| Feature                                     | Indices                              |
+| Category                                    | Indices                              |
 |---------------------------------------------|--------------------------------------|
-| Word usage                                  | word frequency, word range           |
+| Word frequency                              |                                      |
+| Word range                                  |                                      |
 | Psycholinguistic norms                      | imageability, familiarity, ...       |
 | Age of acquisition                          |                                      |
-| Ngram usage                                 | ngram frequency, ngram range, ngram strength of association |
+| Ngram frequency                             |                                      |
+| Ngram range                                 |                                      |
+| Ngram strength of association               |                                      |
 | Contextual distinctiveness                  |                                      |
 | Academic language                           |                                      |
 | Word neighbor information                   |                                      |
