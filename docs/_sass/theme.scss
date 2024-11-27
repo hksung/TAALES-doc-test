@@ -30,6 +30,10 @@
 @import "core/markdown";
 @import "core/toasts";
 
+// Override variables
+$theme-white: #FFFFFF !default; // Replace with your desired color
+$theme-blue: #8A9C5E !default;
+
 // improved
 @import "direction";
 
