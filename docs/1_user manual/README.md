@@ -1,6 +1,8 @@
 
-## User Manual for TAALES 2.8 (updated 1-26-2018)
-
+## User Manual 
+- TAALES 2.8 
+- (last updated 1-26-2018)
+- see [here](https://www.linguisticanalysistools.org/taales_2_5_beta.html)
 
 ### Citations
 Please use the following citations when referencing TAALES:  
