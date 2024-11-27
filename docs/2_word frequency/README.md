@@ -16,4 +16,4 @@ sort: 2
     - London-Lund Corpus of Conversation (`Brown`) (Brown, 1984; Svartvik & Quirk, 1980)
     - Lorge's Corpus of Popular Magazine Articles (`TL`) (Thorndike & Lorge, 1944)
     - SUBTLEXus (`SUBTLEXus`) (Brysbaert & New, 2009)
-    - TOEFL11 Corpus (`NNS`) (Blanchard et al., 2013; Monteiro et al., under review)
+    - TOEFL11 Corpus (`NNS`) (Blanchard et al., 2013; Monteiro et al., 2020)
