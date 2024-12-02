@@ -1,5 +1,6 @@
 # Lexical decision time (LD)
-**Lexical decision time (LD)** refers to the amount of time it takes for a person to determine whether a presented string of letters forms a real word or not.
+- **Definition: Lexical decision time (LD)** refers to the amount of time it takes for a person to determine whether a presented string of letters forms a real word or not.
+
 ### LD_Mean_RT
 - **Description**: Mean lexical decision reaction time for a particular word (in milliseconds).
 - **Methodology**: Mean

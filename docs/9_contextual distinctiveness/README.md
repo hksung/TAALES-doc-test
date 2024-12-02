@@ -4,9 +4,9 @@ sort: 9
 
 ## Contextual distinctiveness
 
-- **Definition**: Contextual distinctiveness refers to how many different psychological, lexical or semantic contexts a word typically appears in, which can impact the perceived difficulty of a word. For example, words with high contextual distinctiveness (e.g., "kennel") appear in fewer contexts than those with lower contextual distinctiveness (e.g., "good").
+- **Definition**: Contextual distinctiveness refers to how many different psychological, lexical or semantic contexts a word typically appears in, which can impact the perceived difficulty of a word. 
+- For example, words with high contextual distinctiveness (e.g., "kennel") appear in fewer contexts than those with lower contextual distinctiveness (e.g., "good").
 - Previous studies (e.g., Berger et al., 2017) found that more proficient language learners tend to use words with higher contextual distinctiveness and difficulty.
-
 - Related indices capture how broadly or narrowly a word is used in various contexts by looking at:
 	- *(1)* the variety of words that come to mind in response to a given word in free association; 
 	- *(2)* the number of different prompts that trigger a specific word in free association tasks; 

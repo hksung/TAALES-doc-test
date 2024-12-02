@@ -3,7 +3,9 @@ sort: 8
 ---
 
 ## ngram strength of association
-- **Definition**: **Ngram strength of association (SOA)** measures how strongly the words in an ngram are related to each other based on their co-occurrence patterns. These indicies are valuable for understanding collocations, idiomatic expressions, and overall cohesion within a text (Gablasova et al., 2017; O'Donnell et al., 2013).
+
+- **Definition: Ngram strength of association (SOA)** measures how strongly the words in an ngram are related to each other based on their co-occurrence patterns. 
+- These indices are valuable for understanding collocations, idiomatic expressions, and overall cohesion within a text (Gablasova et al., 2017; O'Donnell et al., 2013).
 - *TAALES* captures the dependency between words within bigrams and trigrams, using the following statistical measures, which are calculated based on the COCA subcorpora:
     - *(a) MI* (Mutual information) 
     - *(b) MI²* (Mutual information squared)

@@ -1,5 +1,5 @@
 # Ortographic neighborhood
-**Ortographic neighborhood** refers to the set of words that can be formed by changing a single letter in a given word, resulting in a new valid word. The closest ortographic neighbors are those words that require the fewest character edits to transform into the target word.
+- **Definition: Ortographic neighborhood** refers to the set of words that can be formed by changing a single letter in a given word, resulting in a new valid word. The closest ortographic neighbors are those words that require the fewest character edits to transform into the target word.
 
 ### Ortho_N
 - **Description**: Number of ortographic neighbors for a particular word.

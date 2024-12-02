@@ -1,5 +1,5 @@
 # Phonographic neighborhood
-**Phonographic neighborhood** words that are both orthographic and phonological neighbors of a target word. They differ by one letter and one sound simultaneously.
+- **Definition: Phonographic neighborhood** words that are both orthographic and phonological neighbors of a target word. They differ by one letter and one sound simultaneously.
 
 ### OG_N
 - **Description**: Average frequency of phonographic neighborhood for a particular word.

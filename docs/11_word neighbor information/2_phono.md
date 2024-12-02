@@ -1,5 +1,5 @@
 # Phonological neighborhood
-**Phonological neighborhood** refers to a set of words that are phonetically similar to a target word, typically differing by only one phoneme through addition, deletion, or substitution.
+- **Definition: Phonological neighborhood** refers to a set of words that are phonetically similar to a target word, typically differing by only one phoneme through addition, deletion, or substitution.
 
 ### Phono_N
 - **Description**: Number of phonological neighbors for a particular word.

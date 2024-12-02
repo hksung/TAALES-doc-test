@@ -1,5 +1,5 @@
 # Word naming response time (WN)
-**Word naming response time (WN)** refers to the duration it takes for a person to read a presented word aloud.
+- **Definition: Word naming response time (WN)** refers to the duration it takes for a person to read a presented word aloud.
 
 ### WN_Mean_RT
 - **Description**: Mean naming reaction time for a particular word.
