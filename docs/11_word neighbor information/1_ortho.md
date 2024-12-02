@@ -42,6 +42,6 @@
     - ***OLDF***: All words (AW)
     - ***OLDF_CW***: Content words (CW)
     - ***OLDF_FW***: Function words (FW)
-- **Corpus**: HAL (Hyperspace Analogue to Language) ???
+- **Corpus**: HAL (Hyperspace Analogue to Language)
 - **Register**: Not applicable (NA)
 - **References**: Yarkoni et al., 2008; Balota et al., 2007; Lund & Burgess, 1996

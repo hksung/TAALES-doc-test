@@ -5,7 +5,7 @@
 - **Description**: Number of phonological neighbors for a particular word.
 - **Methodology**: Count
 - **Types**:
-    - **Excluding homophones**: ???
+    - **Excluding homophones**:
         - ***Phono_N***: All words (AW)
         - ***Phono_N_CW***: Content words (CW)
         - ***Phono_N_FW***: Function words (FW)
