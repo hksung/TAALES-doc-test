@@ -6,17 +6,17 @@
 
 # Quick overview
 
-| Category                                    | Indices                              |
-|---------------------------------------------|--------------------------------------|
-| Word frequency                              |                                      |
-| Word range                                  |                                      |
-| Psycholinguistic norms                      | imageability, familiarity, ...       |
-| Age of acquisition                          |                                      |
-| Ngram frequency                             |                                      |
-| Ngram range                                 |                                      |
-| Ngram strength of association               |                                      |
-| Contextual distinctiveness                  |                                      |
-| Academic language                           |                                      |
-| Word neighbor information                   |                                      |
-| Word recognition norms                      |                                      |
-| Semantic network                            |                                      |
+| Category                                    | Indices                                 |
+|---------------------------------------------|-----------------------------------------|
+| Word frequency                              |                                         |
+| Word range                                  |                                         |
+| Psycholinguistic norms                      | imageability, familiarity, ...          |
+| Age of acquisition/exposure                 | AoA, AoE                                |
+| Ngram frequency                             | BNC, COCA                               |
+| Ngram range                                 | raw, logarithmic                        |
+| Ngram strength of association               | MI, MI², T, DP, AC                      |
+| Contextual distinctiveness                  | EAT, USF, McD, Sem_D, LSA               |
+| Academic language                           |                                         |
+| Word neighbor information                   | orthographic, phonological, phonographic|
+| Word recognition norms                      | LD, WN                                  |
+| Semantic network                            |                                         |
