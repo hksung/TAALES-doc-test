@@ -10,7 +10,7 @@ sort: 3
   - Words with restricted ranges are generally considered more sophisticated.  
 
 - **TAALES 2.0 word range indices**:  
-  - Includes 48 indices derived from:  
+  - Includes 178 indices derived from:  
     - British National Corpus (`BNC`) (BNC Consortium, 2007)
     - Brown Corpus (`KF`) (Kucera & Francis, 1967)
     - Corpus of Contemporary American English (`COCA`) (Davies, 2009)
