@@ -7,9 +7,9 @@
 
 | Category                                    | Indices                                 |
 |---------------------------------------------|-----------------------------------------|
-| Word frequency                              |                                         |
+| Word frequency                              | BNC, Brown, COCA, HAL, London-Lund, Lorge's                                        |
 | Word range                                  |                                         |
-| Psycholinguistic norms                      | imageability, familiarity, ...          |
+| Psycholinguistic norms                      | MRC, Concreteness         |
 | Age of acquisition/exposure                 | AoA, AoE                                |
 | Ngram frequency                             | BNC, COCA                               |
 | Ngram range                                 | raw, logarithmic                        |
