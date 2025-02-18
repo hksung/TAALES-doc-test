@@ -18,4 +18,4 @@
 | Academic language                           | AWL, AFL                                        |
 | Word neighbor information                   | orthographic, phonological, phonographic|
 | Word recognition norms                      | LD, WN                                  |
-| Semantic network                            |                                         |
+| Semantic network                            | Polysemy, Hypernymy                                        |
