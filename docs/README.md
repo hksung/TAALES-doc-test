@@ -8,14 +8,14 @@
 | Category                                    | Indices                                 |
 |---------------------------------------------|-----------------------------------------|
 | Word frequency                              | BNC, Brown, COCA, HAL, London-Lund, Lorge's, SUBTLEXus, TOEFL11                                       |
-| Word range                                  |                                         |
+| Word range                                  | BNC, Brown, COCA, SUBTLEXus, TOEFL11                                       |
 | Psycholinguistic norms                      | MRC, Concreteness         |
 | Age of acquisition/exposure                 | AoA, AoE                                |
 | Ngram frequency                             | BNC, COCA                               |
 | Ngram range                                 | raw, logarithmic                        |
 | Ngram strength of association               | MI, MI², T, DP, AC                      |
 | Contextual distinctiveness                  | EAT, USF, McD, Sem_D, LSA               |
-| Academic language                           |                                         |
+| Academic language                           | AWL, AFL                                        |
 | Word neighbor information                   | orthographic, phonological, phonographic|
 | Word recognition norms                      | LD, WN                                  |
 | Semantic network                            |                                         |
