@@ -7,7 +7,7 @@
 
 | Category                                    | Indices                                 |
 |---------------------------------------------|-----------------------------------------|
-| Word frequency                              | BNC, Brown, COCA, HAL, London-Lund, Lorge's                                        |
+| Word frequency                              | BNC, Brown, COCA, HAL, London-Lund, Lorge's, SUBTLEXus, TOEFL11                                       |
 | Word range                                  |                                         |
 | Psycholinguistic norms                      | MRC, Concreteness         |
 | Age of acquisition/exposure                 | AoA, AoE                                |
