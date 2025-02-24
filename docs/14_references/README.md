@@ -6,6 +6,7 @@ sort: 14
 
 - Berger, C., Crossley, S. & Kyle, K. (2017). Using Native-Speaker Psycholinguistic Norms to Predict Lexical Proficiency and Development in Second-Language Production. *Applied Linguistics*, 40(1), 22–42. https://doi.org/10.1093/applin/amx005
 - Bestgen, Y., & Granger, S. (2014). Quantifying the development of phraseological competence in L2 English writing: An automated approach. *Journal of Second Language Writing*, 26, 28-41. https://doi.org/10.1016/j.jslw.2014.09.004
+- Blanchard, D., Tetreault, J., Higgins, D., Cahill, A. & Chodorow, M. (2013). TOEFL11: A CORPUS OF NON-NATIVE ENGLISH. *ETS Research Report Series*, 1-15. https://doi.org/10.1002/j.2333-8504.2013.tb02331.x
 - Dascalu, M., McNamara, D., Crossley, S., & Trausan-Matu, S. (2016). Age of Exposure: A Model of Word Learning. *Proceedings of the AAAI Conference on Artificial Intelligence*, 30(1), 2928-2934. https://doi.org/10.1609/aaai.v30i1.10372
 - Gablasova, D., Brezina, V. & McEnery, T. (2017). Collocations in Corpus-Based Language Learning Research: Identifying, Comparing, and Interpreting the Evidence. *Language Learning*, 67, 155-179. https://doi.org/10.1111/lang.12225
 - Granger, S. & Bestgen, Y. (2014). The use of collocations by intermediate vs. advanced non-native writers: A bigram-based study. *International Review of Applied Linguistics in Language Teaching*, 52(3), 229-252. https://doi.org/10.1515/iral-2014-0011
