@@ -4,6 +4,8 @@ sort: 13
 
 ## Semantic network
 - **Definition**: Semantic network includes the use of *polysemy* which is related to a word with multiple meanings and *hypernymy* which refers to a hierarchical relationship between a hypernyms (*flower*) and hyponyms (*rose*) (Kim et al., 2018).
+  - Both polysemy and hypernymy are shown to be linked to writing and speaking proficiency (Kim et al., 2018) and lexical proficiency scores (S. A. Crossley et al., 2011; Kyle et al., 2018). 
+
 
 - **TAALES 2.0 Semantic network Indices**:
     - Hypernymy (Noun, Verb, Noun and Verbs)
