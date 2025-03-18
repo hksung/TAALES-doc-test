@@ -8,5 +8,6 @@ sort: 13
 
 
 - **TAALES 2.0 Semantic network Indices**:
-    - Hypernymy (Noun, Verb, Noun and Verbs)
-    - Polysemy (Adjective, Adverbs, Content Words, Nouns, and Verbs)
+    - include 14 indices for:
+      - Hypernymy (Noun, Verb, Noun and Verbs)
+      - Polysemy (Adjective, Adverbs, Content Words, Nouns, and Verbs)
