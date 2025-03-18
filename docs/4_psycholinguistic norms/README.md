@@ -10,6 +10,8 @@ sort: 4
     - *Lexical proficiency* (Crossley et al., 2012; Kyle & Crossley, 2015)
     - *Lexical-decision times* (Kuperman et al., 2012)
     - *Word associations* (Altarriba et al., 1999)
+- Studies have indicated that informal written texts in both L1 and L2 with a lower occurrence of concrete, familiar, imageable, and meaningful words tended to achieve higher lexical proficiency scores (Kyle & Crossley, 2015)
+
 
 - **TAALES 2.0 psycholinguistic norm indices**:  
   - Includes 14 indices derived from:  
