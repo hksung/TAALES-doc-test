@@ -8,5 +8,6 @@ sort: 10
   - Research suggests that an increased use of academic language academic language would result in a sophisticated text (Kyle et al., 2018). using academic words is indicative of higher quality academic writing (Douglas, 2013) and higher L2 speaking proficiency levels (Kyle & Crossley, 2015).
 
 - **TAALES 2.0 Academic language Indices**:
-    - Academic Word List (AWL)
-    - Academic Formulaic Language (AFL)
+    - include 26 indices for:
+      - Academic Word List (AWL)
+      - Academic Formulaic Language (AFL)
