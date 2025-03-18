@@ -5,7 +5,8 @@ sort: 2
 ## Word frequency
 
 - **Definition**: Refers to the number of times a word occurs in a corpus of texts.  
-  - Less frequent words in a reference corpus (e.g., *edifice*, *cuisine*, *egregious*) are considered more sophisticated than frequently occurring words (e.g., *building*, *food*, *bad*).
+  - Less frequent words in a reference corpus (e.g., *edifice*, *cuisine*, *egregious*) are considered more sophisticated than frequently occurring words (e.g., *building*, *food*, *bad*). 
+  - Research has shown that texts with infrequent words are perceived as more difficult and less readable compared to more frequent words (S. A. Crossley et al., 2007) and are of superior quality (S. Crossley & McNamara, 2013).
 
 - **TAALES 2.0 word frequency Indices**:  
   - Includes 206 indices derived from:
