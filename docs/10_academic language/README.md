@@ -9,5 +9,5 @@ sort: 10
 
 - **TAALES 2.0 Academic language Indices**:
     - include 26 indices for:
-      - Academic Word List (AWL)
-      - Academic Formulaic Language (AFL)
+      - Academic Word List (AWL)(Coxhead, 2000)
+      - Academic Formulaic Language (AFL) (Simpson et al., 2002; BNC, 2007, 2007; Hyland, 2007)
