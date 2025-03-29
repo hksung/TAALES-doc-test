@@ -18,3 +18,43 @@
 - Word Neighbor Information
 - Word Range
 - Word Recognition Norms
+
+# How to read the documentation
+
+```text
+Tool Documentation
+│
+├── User manual
+│   ├── Getting Started
+│   ├── Input
+|   ├── Output
+|   ├── Indices and Options
+|   ├── Diagnostics
+│   │   ├── Index Coverage Diagnostics
+│   │   ├── Individual Item Diagnostics   
+│   └── Citations
+│
+├── Sub-constructs
+│   ├── [Sub-construct Name 1]
+│   │   ├── Definition
+│   │   ├── Methodology
+│   │   ├── Corpus Used
+│   │   ├── Calculated Indices
+│   │   │   ├── Index 1
+│   │   │   ├── Index 2
+│   │   │   └── ...
+│   │   └── References
+│   │
+│   ├── [Sub-construct Name 2]
+│   │   ├── Definition
+│   │   ├── Methodology
+│   │   ├── Corpus Used
+│   │   ├── Calculated Indices
+│   │   └── References
+│   │
+│   └── ...
+│
+└── Appendix
+    ├── Full List of Indices
+    └── Other Resources
+```

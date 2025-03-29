@@ -1,22 +1,6 @@
 
 # Tool for the Automatic Analysis of Lexical Sophistication (TAALES)
 
-- This project is part of the [LCR-ADS Lab](https://lcr-ads-lab.github.io/LCR-ADS-Home/) in the Linguistics Department at the University of Oregon.  
-- This page is currently under construction.
+- TAALES is a tool that measures over 400 classic and new indices of lexical sophistication, and includes indices related to a wide range of sub-constructs. TAALES indices have been used to inform models of second language (L2) speaking proficiency, first language (L1) and L2 writing proficiency, spoken and written lexical proficiency, genre differences, and satirical language.
 
-# Quick overview
-
-| Category                                    | Indices                                 |
-|---------------------------------------------|-----------------------------------------|
-| Word frequency                              |                                         |
-| Word range                                  |                                         |
-| Psycholinguistic norms                      | imageability, familiarity, ...          |
-| Age of acquisition/exposure                 | AoA, AoE                                |
-| Ngram frequency                             | BNC, COCA                               |
-| Ngram range                                 | raw, logarithmic                        |
-| Ngram strength of association               | MI, MI², T, DP, AC                      |
-| Contextual distinctiveness                  | EAT, USF, McD, Sem_D, LSA               |
-| Academic language                           |                                         |
-| Word neighbor information                   | orthographic, phonological, phonographic|
-| Word recognition norms                      | LD, WN                                  |
-| Semantic network                            |                                         |
+- Please find the documentation [here](url). 
