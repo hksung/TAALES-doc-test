@@ -1,5 +1,5 @@
 ---
-sort: 6
+sort: 8
 ---
 
 ## Ngram strength of association
@@ -22,7 +22,7 @@ TAALES calculates five statistical association measures for bigrams and trigrams
 - Academic, Fiction, Magazine, News, Spoken
 
 ### Calculated Indices
-- For each register (academic, fiction, magazine, news, spoken), the indices are calculated: e.g., 
+- Replace `[ ]` with register (e.g., *academic*, *fiction*): e.g., 
 COCA_academic_bi_MI, COCA_fiction_bi_MI.
 
 #### Mutual Information (MI)
@@ -68,6 +68,11 @@ COCA_academic_bi_MI, COCA_fiction_bi_MI.
 
 ---
 
+### Notes
+- ...
+
+---
+
 ### References
 - Davis..
 
@@ -75,4 +80,4 @@ COCA_academic_bi_MI, COCA_fiction_bi_MI.
 
 #### to-do-list
 - Find/update all the references on this page. (alphabetical order)
-- add what is the difference between COCA_fiction_tri_MI, COCA_fiction_tri_2_MI  as a note
+- add what is the difference between COCA_fiction_tri_MI, COCA_fiction_tri_2_MI in the note section.
