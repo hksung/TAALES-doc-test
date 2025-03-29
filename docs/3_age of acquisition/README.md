@@ -17,8 +17,6 @@ sort: 3
 
 ### Calculated indices
 
----
-
 #### Age of acquisition (AoA)
 
 - **Definition**: Age of acquisition (AoA) refers to the age at which a person is first expected to learn a particular word. This measure is based on AoA norms that were collected for 30,121 lemmas (Kuperman et al., 2012).
@@ -32,8 +30,6 @@ sort: 3
   - Kuperman_AoA_FW  
   - Kuperman_AoA_FW_TP
 - **References**: Kuperman et al., 2012
-
----
 
 #### Age of exposure (AoE)
 

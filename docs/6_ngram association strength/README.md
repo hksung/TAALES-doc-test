@@ -22,8 +22,8 @@ TAALES calculates five statistical association measures for bigrams and trigrams
 - Academic, Fiction, Magazine, News, Spoken
 
 ### Calculated Indices
-
----
+- For each register (academic, fiction, magazine, news, spoken), the indices are calculated: e.g., 
+COCA_academic_bi_MI, COCA_fiction_bi_MI.
 
 #### Mutual Information (MI)
 
@@ -33,8 +33,6 @@ TAALES calculates five statistical association measures for bigrams and trigrams
   - COCA_[ ]_tri_MI  
   - COCA_[ ]_tri_2_MI  
 
----
-
 #### Mutual Information Squared (MI²)
 
 - **Description**: Modifies MI to reduce low-frequency bias by squaring the numerator. Favors exclusive, yet not extremely rare, combinations.
@@ -42,8 +40,6 @@ TAALES calculates five statistical association measures for bigrams and trigrams
   - COCA_[ ]_bi_MI2  
   - COCA_[ ]_tri_MI2  
   - COCA_[ ]_tri_2_MI2  
-
----
 
 #### T Score (T)
 
@@ -53,8 +49,6 @@ TAALES calculates five statistical association measures for bigrams and trigrams
   - COCA_[ ]_tri_T  
   - COCA_[ ]_tri_2_T  
 
----
-
 #### Delta P (DP)
 
 - **Description**: Captures predictive strength in directional co-occurrence. A high DP score means one word strongly predicts the next.
@@ -63,7 +57,6 @@ TAALES calculates five statistical association measures for bigrams and trigrams
   - COCA_[ ]_tri_DP  
   - COCA_[ ]_tri_2_DP  
 
----
 
 #### Approximate Collexeme (AC)
 
@@ -73,12 +66,6 @@ TAALES calculates five statistical association measures for bigrams and trigrams
   - COCA_[ ]_tri_AC  
   - COCA_[ ]_tri_2_AC  
 
-
----
-
-### Notes
-- For each register (academic, fiction, magazine, news, spoken), the indices are calculated: e.g., 
-COCA_academic_bi_MI, COCA_fiction_bi_MI.
 ---
 
 ### References

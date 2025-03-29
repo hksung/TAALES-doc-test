@@ -5,8 +5,7 @@ sort: 5
 ## Contextual distinctiveness
 
 ### Definition
-Contextual distinctiveness refers to how many different psychological, lexical, or semantic contexts a word typically appears in. Words that are more contextually distinct—appearing in fewer, more specific contexts—are often considered more difficult or advanced.  
-Research has found that more proficient language learners tend to use words with higher contextual distinctiveness (Berger et al., 2017).
+Contextual distinctiveness refers to how many different psychological, lexical, or semantic contexts a word typically appears in. Words that are more contextually distinct—appearing in fewer, more specific contexts—are often considered more difficult or advanced.
 
 ### Methodology
 Several approaches are used to capture contextual distinctiveness:
@@ -15,7 +14,7 @@ Several approaches are used to capture contextual distinctiveness:
 - Probability of co-occurrence with frequent words in a narrow window
 - Semantic variability across contextual environments in large corpora
 
-### Corpus Used
+### Corpus used
 - EAT (Edinburgh Associative Thesaurus), written
 - USF Free Association Norms, written
 - BNC (British National Corpus), written & spoken
@@ -25,11 +24,11 @@ Several approaches are used to capture contextual distinctiveness:
 - Written (EAT, USF, BNC, TASA)  
 - Spoken (BNC: Co-occurrence)
 
-### Calculated Indices
+### Calculated indices
 
 ---
 
-#### Free Association Response Types (EAT)
+#### Free association response types (EAT)
 - **Indices**:
   - EAT_types_AW  
   - EAT_types_CW  
@@ -37,7 +36,7 @@ Several approaches are used to capture contextual distinctiveness:
 
 ---
 
-#### Free Association Stimuli Elicited (USF)
+#### Free association stimuli elicited (USF)
 - **Indices**:
   - USF_AW  
   - USF_CW  
@@ -45,7 +44,7 @@ Several approaches are used to capture contextual distinctiveness:
 
 ---
 
-#### Co-occurrence Probability (McD)
+#### Co-occurrence probability (McD)
 - **Methodology**: Kullback-Leibler divergence (relative entropy)
 - **Indices**:
   - McD_CD_AW  
@@ -54,7 +53,7 @@ Several approaches are used to capture contextual distinctiveness:
 
 ---
 
-#### Semantic Distinctiveness (Sem_D)
+#### Semantic distinctiveness (Sem_D)
 - **Methodology**: Variability of contexts in which a word appears across 1,000-word text sections; Reversed natural log of mean LSA cosine similarity across chunks
 - **Indices**:
   - Sem_D_AW  
@@ -63,7 +62,7 @@ Several approaches are used to capture contextual distinctiveness:
 
 ---
 
-#### Latent Semantic Analysis (LSA)
+#### Latent semantic analysis (LSA)
 - **Indices**:
 	- lsa_average_top_three_cosine
 	- lsa_max_similarity_cosine

@@ -16,8 +16,6 @@ TAALES identifies and calculates indices related to academic language using lexi
 
 ### Calculated indices
 
----
-
 #### Academic word list (AWL)
 
 ##### AWL general normed scores
@@ -26,15 +24,11 @@ TAALES identifies and calculates indices related to academic language using lexi
 - **Index**: All_AWL_Normed
 - **References**: Coxhead, 2000
 
----
-
 ##### AWL sublist normed scores (Non-TP)
 - **Definition**: Measures normalized frequencies for each AWL sublist.
 - **Methodology**: Frequencies calculated by sublist and normalized.
 - **Indices**: AWL_Sublist_1–10_Normed
 - **References**: Coxhead, 2000
-
----
 
 ##### AWL general normed scores (TP)
 - **Definition**: AWL scores based on the top proportion of most frequent AWL words.
@@ -42,15 +36,11 @@ TAALES identifies and calculates indices related to academic language using lexi
 - **Index**: All_AWL_Normed_TP
 - **References**: Coxhead, 2000
 
----
-
 ##### AWL sublist normed scores (TP)
 - **Definition**: Measures sublist-specific AWL frequencies in the top proportion of a text.
 - **Methodology**: Calculated within top-proportion segments and normalized.
 - **Indices**: AWL_Sublist_1-10_Normed_TP
 - **References**: Coxhead, 2000
-
----
 
 #### Academic formulaic language (AFL)
 
